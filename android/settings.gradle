@@ -1,0 +1,3 @@
+rootProject.name = 'TransitApp511'
+
+include ':app'
